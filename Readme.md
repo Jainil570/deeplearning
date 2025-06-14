@@ -1,1 +1,1 @@
-# YO JOGINDER
+# LEARNING RNN(Recurrent Neural Network) model 
